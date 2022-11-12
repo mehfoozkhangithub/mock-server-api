@@ -1,0 +1,15 @@
+{
+  "name": "mpck-server-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "mehfooz",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
